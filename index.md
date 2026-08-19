@@ -16,6 +16,4 @@ Reference guides for the in-class spreadsheet activities. Each one covers a set 
 ## Downloadable files
 
 - [nrv-monitoring-log.csv](assets/nrv-monitoring-log.csv) — raw monitoring data for the import activity
-- [nrv-monitoring-log-starter.xlsx](assets/nrv-monitoring-log-starter.xlsx) — same data pre-loaded as an Excel Table
-- [toms-run-starter.xlsx](assets/toms-run-starter.xlsx) — blank starter workbook for Activity 1
-- [toms-run-answer-key.xlsx](assets/toms-run-answer-key.xlsx) — completed answer key for Activity 1
+
