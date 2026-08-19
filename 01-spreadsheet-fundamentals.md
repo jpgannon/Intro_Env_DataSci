@@ -109,6 +109,5 @@ Use this to check your own progress or review before a quiz.
 
 Full textbook chapters covered: [Ch. 1 – An Overview of Excel](https://minnstate.pressbooks.pub/spreadsheets2025/chapter/making-decisions-with-excel-2/) · [Ch. 2 – Entering, Editing, and Managing Data](https://minnstate.pressbooks.pub/spreadsheets2025/chapter/making-decisions-with-excel/) · [Ch. 3 – Formatting and Data Analysis](https://minnstate.pressbooks.pub/spreadsheets2025/chapter/formatting-and-data-analysis/)
 
-Starter and completed example workbooks: [toms-run-starter.xlsx](assets/toms-run-starter.xlsx) · [toms-run-answer-key.xlsx](assets/toms-run-answer-key.xlsx) — use the completed version to check your own work, not as a shortcut to skip building it yourself.
 
 [← Back to all activities](index.html)
