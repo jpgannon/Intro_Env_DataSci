@@ -31,8 +31,8 @@ This activity walks through core spreadsheet skills in Excel and Google Sheets, 
 
 Open a new workbook and save it as "Toms Run – [your name].xlsx" (or, in Google Sheets, just rename the file — it saves automatically).
 
-- In cell A2, type `Month`. Press Tab and type `Discharge_cfs`, `Turbidity_NTU`, and `WaterTemp_F` across row 2.
-- In A3, type `January` and press Enter. Reactivate A3, then drag the fill handle (the small square at the cell's bottom-right corner) down to A14 to auto-fill the rest of the months.
+- In cell A1, type `Month`. Press Tab and type `Discharge_cfs`, `Turbidity_NTU`, and `WaterTemp_F` across row 2.
+- In A2, type `January` and press Enter. Reactivate A2, then drag the fill handle (the small square at the cell's bottom-right corner) down to A14 to auto-fill the rest of the months.
 - Enter the Discharge, Turbidity, and Water Temp values from the table above into columns B–D, rows 3–14.
 
 > **Practice on your own:** Enter the data for at least four months without looking back and forth constantly — get a feel for using Tab and Enter to move between cells.
@@ -47,11 +47,10 @@ Open a new workbook and save it as "Toms Run – [your name].xlsx" (or, in Googl
 
 ## Part 2: Format the Worksheet
 
-- Bold row 2 (the headers). Create a totals row in row 15 labeled "Avg / Total," and bold + italicize it.
-- Add a bottom border under row 2, and a top-and-double-bottom border under row 15 — a standard way to mark totals.
+- Bold row 1 (the headers). Create a totals row in row 14 labeled "Avg / Total," and bold + italicize it.
+- Add a bottom border under row 1, and a top-and-double-bottom border under row 15 — a standard way to mark totals.
 - Apply number formatting: whole numbers with commas for Discharge, one decimal place for Turbidity, whole numbers for Water Temp. Match the precision to what the instrument can actually measure — don't show more decimal places than are meaningful.
 - Center the column headers and turn on Wrap Text so long headers stack instead of getting cut off.
-- Insert a row above row 1, merge A1:D1, and type a two-line title using Alt+Enter between lines — for example, "Toms Run Monitoring Station" then "2026 Monthly Water Quality Summary." Italicize it and increase the row height so both lines are visible.
 
 > **Practice on your own:** Add a fill color to the header row and a font color that's readable against it — your choice.
 
